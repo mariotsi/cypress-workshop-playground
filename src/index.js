@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import DragNDrop from './src/pages/drag-n-drop';
-import MysteriousButtons from './src/pages/MysteriousButtons';
-import ImagePicker from './src/pages/ImagePicker';
+import DragNDrop from './pages/drag-n-drop';
+import MysteriousButtons from './pages/MysteriousButtons';
+import ImagePicker from './pages/ImagePicker';
 import './style.scss';
 
 
